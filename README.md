@@ -6,7 +6,7 @@ I'm a junior web developer and a student at Universitas Trunojoyo Madura. I love
 - 🌱 I’m learning machine learning and deep learning techniques.
 - 👯 I’m looking to collaborate on web development projects, especially with Laravel and Python.
 - 💬 Ask me about web development, machine learning, or anything tech-related!
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ahmad-ramadani-bahri-30727931a) | [Email](mailto:danibahri45@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-ramadani-bahri-30727931a/) | [Email](mailto:danibahri45@gmail.com)
 
 ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danibahri&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
@@ -41,6 +41,6 @@ I'm a junior web developer and a student at Universitas Trunojoyo Madura. I love
 - Built using Python and Scikit-learn.
 
 ## Connect with Me
-- [LinkedIn](www.linkedin.com/in/ahmad-ramadani-bahri-30727931a)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-ramadani-bahri-30727931a/)
 - [Personal Website](https://www.yourwebsite.com)
 
