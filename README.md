@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Ahmad Ramadani Bahri 👋
 
-<!--
-**danibahri/danibahri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior web developer and a student at Universitas Trunojoyo Madura. I love exploring new technologies and building creative projects. I'm passionate about programming, web development, and AI.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my thesis project involving data analysis and prediction.
+- 🌱 I’m learning machine learning and deep learning techniques.
+- 👯 I’m looking to collaborate on web development projects, especially with Laravel and Python.
+- 💬 Ask me about web development, machine learning, or anything tech-related!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-ramadani-bahri/) | [Email](mailto:ahmadramadani@um.ac.id)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danibahri&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## My GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danibahri)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danibahri&layout=compact&langs_count=6)
+
+---
+
+## Technologies & Tools
+- 👨‍💻 **Programming Languages:** Python, JavaScript, PHP, HTML/CSS, SQL
+- 🌐 **Web Development:** Laravel, Django, Node.js, React
+- ⚙️ **Tools:** Git, Docker, VS Code, Postman
+- 📊 **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
+- 🧠 **AI/ML:** TensorFlow, Keras, OpenCV
+
+## Projects
+
+### [Shoe-tik](https://github.com/danibahri/shoe-tik)
+- A web application for selling shoes with an admin dashboard and user interface.
+- Built using Laravel for the back-end and Vue.js for the front-end.
+
+### [LEPEH](https://github.com/danibahri/lepeh)
+- A laundry digital application with separate user, worker, and admin apps.
+- Uses MySQL database and Laravel framework.
+
+### [Abalone Rings Prediction](https://github.com/danibahri/abalone-prediction)
+- A machine learning project predicting the number of rings in abalones using Decision Tree (ID3).
+- Built using Python and Scikit-learn.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ahmad-ramadani-bahri/)
+- [Twitter](https://twitter.com/ahmadramadani_)
+- [Personal Website](https://www.yourwebsite.com)
+
