@@ -1,5 +1,5 @@
 # Hi there, I'm Ahmad Ramadani Bahri 👋
-
+![alt text](https://github.com/danibahri/danibahri/blob/main/Profile.png?raw=true)
 I'm a junior web developer and a student at Universitas Trunojoyo Madura. I love exploring new technologies and building creative projects. I'm passionate about programming, web development, and AI.
 
 - 🔭 I’m currently working on my thesis project involving data analysis and prediction.
