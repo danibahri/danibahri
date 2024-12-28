@@ -40,7 +40,7 @@ I'm a junior web developer and a student at Universitas Trunojoyo Madura. I love
 - A machine learning project predicting weather with 3 model Decision Tree (ID3), K-Nearest Neighbor (KNN), and Gradient Boosting (GB).
 - Built using Python and Scikit-learn.
 
-## [Web Anime Using Flask](https://animefly-six.vercel.app/)
+### [Web Anime Using Flask](https://animefly-six.vercel.app/)
 - A web aplication for watching anime free
 - Built using python and scrap
 
