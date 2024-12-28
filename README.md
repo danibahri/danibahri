@@ -28,16 +28,16 @@ I'm a junior web developer and a student at Universitas Trunojoyo Madura. I love
 
 ## Projects
 
-### [Shoe-tik](https://github.com/danibahri/shoe-tik)
+### [Shoe-tik](https://shoe-tik..my.id)
 - A web application for selling shoes with an admin dashboard and user interface.
 - Built using Laravel for the back-end and Vue.js for the front-end.
 
-### [LEPEH](https://github.com/danibahri/lepeh)
+### [LEPEH](https://github.com/danibahri/E-Laundry)
 - A laundry digital application with separate user, worker, and admin apps.
 - Uses MySQL database and Laravel framework.
 
-### [Abalone Rings Prediction](https://github.com/danibahri/abalone-prediction)
-- A machine learning project predicting the number of rings in abalones using Decision Tree (ID3).
+### [Weather Prediction](https://weatherpredict-app.streamlit.app)
+- A machine learning project predicting weather with 3 model Decision Tree (ID3), K-Nearest Neighbor (KNN), and Gradient Boosting (GB).
 - Built using Python and Scikit-learn.
 
 ## Connect with Me
