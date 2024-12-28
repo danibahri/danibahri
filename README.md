@@ -28,7 +28,7 @@ I'm a junior web developer and a student at Universitas Trunojoyo Madura. I love
 
 ## Projects
 
-### [Shoe-tik](https://shoe-tik..my.id)
+### [Shoe-tik](https://shoe-tik.my.id)
 - A web application for selling shoes with an admin dashboard and user interface.
 - Built using Laravel for the back-end and Vue.js for the front-end.
 
