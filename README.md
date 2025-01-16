@@ -21,7 +21,7 @@ I'm a junior web developer and a student at Universitas Trunojoyo Madura. I love
 
 ## Technologies & Tools
 - 👨‍💻 **Programming Languages:** Python, JavaScript, PHP, HTML/CSS, SQL
-- 🌐 **Web Development:** Laravel, Flask, Node.js
+- 🌐 **Web Development:** Laravel, Flask
 - ⚙️ **Tools:** Git,VS Code, Postman
 - 📊 **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
 - 🧠 **AI/ML:** TensorFlow, Keras, OpenCV
