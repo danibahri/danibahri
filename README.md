@@ -111,24 +111,25 @@ I'm a passionate junior web developer and a student at **Universitas Trunojoyo M
 <tr>
 <td width="50%">
 
-### 🛒 [Shoe-tik](https://shoe-tik.my.id)
+### [Recruitment Komisi-Informasi Sumenep](https://seleksi-ki.sumenepkab.go.id/)
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Filament-FFD43B?style=flat-square&logo=filament&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
 
-A comprehensive web application for selling shoes featuring:
+Website for recruitment of Sumenep regional information commission
 
-- 🛍️ Modern e-commerce interface
-- 📊 Admin dashboard with analytics
+- 🛍️ Modern website interface
+- 📊 Admin dashboard with filament
 - 👤 User management system
-- 💳 Secure payment integration
+- 📋 With input form dynamic
 
-**Tech Stack:** Laravel, Vue.js, MySQL
+**Tech Stack:** Laravel, Filament, MySQL
 
 </td>
 <td width="50%">
 
-### 🧺 [LEPEH](https://github.com/danibahri/E-Laundry)
+### [LEPEH](https://github.com/danibahri/E-Laundry)
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
@@ -147,24 +148,24 @@ Digital laundry management system with:
 <tr>
 <td width="50%">
 
-### 🌤️ [Weather Prediction](https://weatherpredict-app.streamlit.app)
+### [Sentiment Analysis - Gili Labak Tourism](https://sentiment-analysis-parawisata.streamlit.app/)
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
 
 ML-powered weather prediction app featuring:
 
-- 🤖 3 ML models: Decision Tree, KNN, Gradient Boosting
-- 📊 Interactive data visualization
-- 🎯 High accuracy predictions
-- 📈 Performance comparison
+- 🤖 Rule-Based Sentiment Analysis with Aspect-Based Classification
+- 📊 Every processing has visualization
+- 🎯 High accuracy
+- 📈 3 label [Positive, Negative and Netral]
 
 **Tech Stack:** Python, Scikit-learn, Streamlit
 
 </td>
 <td width="50%">
 
-### 🎌 [AnimeFly](https://animefly-six.vercel.app/)
+### [AnimeFly](https://animefly-six.vercel.app/)
 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
