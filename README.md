@@ -22,14 +22,6 @@ I'm a passionate junior web developer and a student at **Universitas Trunojoyo M
 - 👯 I'm looking to collaborate on **web development projects**, especially with Laravel and Python
 - 💬 Ask me about **web development**, **machine learning**, or anything tech-related!
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ramadani-bahri-30727931a/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danibahri45@gmail.com)
-- ⚡ Fun fact: I love combining creativity with code!ext](https://github.com/danibahri/danibahri/blob/main/Banner.png?raw=true)
-  I'm a junior web developer and a student at Universitas Trunojoyo Madura. I love exploring new technologies and building creative projects. I'm passionate about programming, web development, and AI.
-
-- 🔭 I’m currently working on my thesis project involving data analysis and prediction.
-- 🌱 I’m learning machine learning and deep learning techniques.
-- 👯 I’m looking to collaborate on web development projects, especially with Laravel and Python.
-- 💬 Ask me about web development, machine learning, or anything tech-related!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmad-ramadani-bahri-30727931a/) | [Email](mailto:danibahri45@gmail.com)
 
 ---
 
