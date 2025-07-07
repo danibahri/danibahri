@@ -23,7 +23,7 @@ I'm a dedicated **Full Stack Web Developer** and Computer Science student at **U
 - 🎯 I focus on **responsive design**, **clean architecture**, and **optimal user experience**
 - 📚 I'm continuously learning **modern web frameworks** and **best development practices**
 - 💬 Ask me about **Laravel**, **PHP**, **JavaScript**, **database design**, or **web architecture**!
-- 📫 How to reach me: [![LinkedIn](www.linkedin.com/in/ahmad-ramadani-bahri-44468a373) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danibahri45@gmail.com)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ramadani-bahri-44468a373/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danibahri45@gmail.com)
 
 ---
 
