@@ -3,7 +3,7 @@
   
   # Hi there, I'm Ahmad Ramadani Bahri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Web+Developer;AI+%26+ML+Enthusiast;Laravel+%26+Python+Lover;Always+Learning+New+Technologies" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Specialist;Frontend+%26+Backend+Expert;Building+Modern+Web+Applications;Passionate+About+Clean+Code" alt="Typing SVG">
   
   <br>
   
@@ -15,12 +15,14 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-I'm a passionate junior web developer and a student at **Universitas Trunojoyo Madura**. I love exploring new technologies and building creative projects. My journey in programming focuses on web development and AI.
+I'm a dedicated **Full Stack Web Developer** and Computer Science student at **Universitas Trunojoyo Madura**. I specialize in creating robust, scalable web applications with modern technologies. My passion lies in transforming ideas into functional, user-friendly digital solutions.
 
-- 🔭 I'm currently working on my **thesis project** involving data analysis and prediction
-- 🌱 I'm learning **machine learning** and **deep learning** techniques
-- 👯 I'm looking to collaborate on **web development projects**, especially with Laravel and Python
-- 💬 Ask me about **web development**, **machine learning**, or anything tech-related!
+- 🚀 I'm currently developing **enterprise-level web applications** with Laravel and modern frontend frameworks
+- 💻 I'm specializing in **full-stack development** with expertise in both frontend and backend technologies
+- 🤝 I'm looking to collaborate on **innovative web projects**, SaaS applications, and e-commerce platforms
+- 🎯 I focus on **responsive design**, **clean architecture**, and **optimal user experience**
+- 📚 I'm continuously learning **modern web frameworks** and **best development practices**
+- 💬 Ask me about **Laravel**, **PHP**, **JavaScript**, **database design**, or **web architecture**!
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ramadani-bahri-30727931a/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danibahri45@gmail.com)
 
 ---
@@ -59,49 +61,50 @@ I'm a passionate junior web developer and a student at **Universitas Trunojoyo M
 
 <div align="center">
 
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-### 🌐 Frameworks & Libraries
+### 🌐 Web Development Stack
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <!-- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/> -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### 🛠️ Tools & Technologies
+### 🗄️ Database & Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent ORM"/>
+  <img src="https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="RESTful API"/>
+</p>
+
+### 🛠️ Development Tools
+
+<p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
-### 📊 Data Science & AI
+### 🚀 Additional Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 </p>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"> Featured Projects
+## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30"> Featured Web Projects
 
 <div align="center">
 
@@ -115,67 +118,74 @@ I'm a passionate junior web developer and a student at **Universitas Trunojoyo M
 <img src="https://img.shields.io/badge/Filament-FFD43B?style=flat-square&logo=filament&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
 
-Website for recruitment of Sumenep regional information commission
+Professional recruitment platform for government commission
 
-- 🛍️ Modern website interface
-- 📊 Admin dashboard with filament
-- 👤 User management system
-- 📋 With input form dynamic
+- 🏛️ Government-grade security & compliance
+- 📊 Advanced admin dashboard with Filament
+- 👥 Multi-role user management system
+- 📋 Dynamic form builder & validation
+- 📱 Fully responsive design
 
-**Tech Stack:** Laravel, Filament, MySQL
+**Tech Stack:** Laravel, Filament, MySQL, Bootstrap
 
 </td>
 <td width="50%">
 
-### [LEPEH](https://github.com/danibahri/E-Laundry)
+### [LEPEH - Digital Laundry Management](https://github.com/danibahri/E-Laundry)
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
 
-Digital laundry management system with:
+Complete SaaS solution for laundry business management
 
-- 👥 Multi-role access (User, Worker, Admin)
-- 📱 Mobile-friendly interface
-- 📋 Order tracking system
-- 💰 Revenue management
+- 👥 Multi-tenant architecture (User, Worker, Admin)
+- 📱 Progressive Web App (PWA) features
+- 📋 Real-time order tracking system
+- 💰 Comprehensive revenue analytics
+- 🔔 Automated notification system
 
-**Tech Stack:** Laravel, MySQL, Bootstrap
+**Tech Stack:** Laravel, MySQL, Bootstrap, JavaScript
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [Sentiment Analysis - Gili Labak Tourism](https://sentiment-analysis-parawisata.streamlit.app/)
+### [AnimeFly - Streaming Platform](https://animefly-six.vercel.app/)
 
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 
-ML-powered weather prediction app featuring:
+Modern video streaming web application
 
-- 🤖 Rule-Based Sentiment Analysis with Aspect-Based Classification
-- 📊 Every processing has visualization
-- 🎯 High accuracy
-- 📈 3 label [Positive, Negative and Netral]
+- 🎥 High-performance video streaming
+- 🔍 Advanced search & filtering system
+- 📱 Responsive video player
+- 🎨 Modern UI/UX design
+- ⚡ Fast loading with optimized backend
 
-**Tech Stack:** Python, Scikit-learn, Streamlit
+**Tech Stack:** Python, Flask, JavaScript, Web Scraping
 
 </td>
 <td width="50%">
 
-### [AnimeFly](https://animefly-six.vercel.app/)
+### [Tourism Sentiment Analysis Web App](https://sentiment-analysis-parawisata.streamlit.app/)
 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 
-Free anime streaming platform with:
+Interactive web application for sentiment analysis
 
-- 🎥 High-quality anime streaming
-- 🔍 Advanced search functionality
-- 📱 Responsive design
-- 🆓 Completely free access
+- 🤖 Real-time sentiment analysis engine
+- 📊 Interactive data visualizations
+- 🎯 Aspect-based sentiment classification
+- 📈 Dynamic charts and analytics
+- 🌐 User-friendly web interface
 
-**Tech Stack:** Python, Flask, Web Scraping
+**Tech Stack:** Python, Streamlit, Pandas, Scikit-learn
 
 </td>
 </tr>
