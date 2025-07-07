@@ -3,7 +3,7 @@
   
   # Hi there, I'm Ahmad Ramadani Bahri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+%26+PHP+Specialist;Frontend+%26+Backend+Expert;Building+Modern+Web+Applications;Passionate+About+Clean+Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Web+Developer;Aspiring+Full+Stack+Developer;Laravel+%26+PHP+Enthusiast;Learning+Modern+Web+Technologies;Growing+Every+Day" alt="Typing SVG">
   
   <br>
   
@@ -15,14 +15,15 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-I'm a dedicated **Full Stack Web Developer** and Computer Science student at **Universitas Trunojoyo Madura**. I specialize in creating robust, scalable web applications with modern technologies. My passion lies in transforming ideas into functional, user-friendly digital solutions.
+I'm a passionate **Junior Web Developer** and Computer Science student at **Universitas Trunojoyo Madura** with a strong ambition to become a **Full Stack Developer**. I love building web applications and I'm constantly learning new technologies to expand my skill set. My goal is to master both frontend and backend development to create complete, scalable web solutions.
 
-- 🚀 I'm currently developing **enterprise-level web applications** with Laravel and modern frontend frameworks
-- 💻 I'm specializing in **full-stack development** with expertise in both frontend and backend technologies
-- 🤝 I'm looking to collaborate on **innovative web projects**, SaaS applications, and e-commerce platforms
-- 🎯 I focus on **responsive design**, **clean architecture**, and **optimal user experience**
-- 📚 I'm continuously learning **modern web frameworks** and **best development practices**
-- 💬 Ask me about **Laravel**, **PHP**, **JavaScript**, **database design**, or **web architecture**!
+- 🚀 I'm currently working on **improving my full-stack skills** through hands-on projects and learning new frameworks
+- 💻 I'm developing expertise in **Laravel, PHP, and JavaScript** while exploring modern frontend technologies
+- 🎯 My goal is to become a **proficient Full Stack Developer** capable of handling end-to-end web development
+- 🌱 I'm actively learning **advanced web development concepts**, **database design**, and **modern deployment practices**
+- 🤝 I'm looking to collaborate on **web development projects** where I can learn and contribute to meaningful solutions
+- 📚 I'm continuously studying **best practices**, **clean code principles**, and **modern web architectures**
+- 💬 Ask me about **Laravel**, **PHP**, **JavaScript**, or my **learning journey** in web development!
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ramadani-bahri-44468a373/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danibahri45@gmail.com)
 
 ---
