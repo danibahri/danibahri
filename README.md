@@ -23,7 +23,7 @@ I'm a dedicated **Full Stack Web Developer** and Computer Science student at **U
 - 🎯 I focus on **responsive design**, **clean architecture**, and **optimal user experience**
 - 📚 I'm continuously learning **modern web frameworks** and **best development practices**
 - 💬 Ask me about **Laravel**, **PHP**, **JavaScript**, **database design**, or **web architecture**!
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ramadani-bahri-30727931a/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danibahri45@gmail.com)
+- 📫 How to reach me: [![LinkedIn](www.linkedin.com/in/ahmad-ramadani-bahri-44468a373) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danibahri45@gmail.com)
 
 ---
 
@@ -69,6 +69,7 @@ I'm a dedicated **Full Stack Web Developer** and Computer Science student at **U
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-02569B?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
@@ -117,6 +118,7 @@ I'm a dedicated **Full Stack Web Developer** and Computer Science student at **U
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Filament-FFD43B?style=flat-square&logo=filament&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-02569B?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
 Professional recruitment platform for government commission
 
@@ -135,7 +137,8 @@ Professional recruitment platform for government commission
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-02569B?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/> -->
 
 Complete SaaS solution for laundry business management
 
