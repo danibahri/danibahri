@@ -206,7 +206,7 @@ Interactive web application for sentiment analysis
 ### 💬 Get in Touch
 
 <p>
-  <a href="https://www.linkedin.com/in/ahmad-ramadani-bahri-30727931a/">
+  <a href="https://www.linkedin.com/in/ahmad-ramadani-bahri-44468a373">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:danibahri45@gmail.com">
