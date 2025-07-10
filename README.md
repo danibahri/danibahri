@@ -15,7 +15,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-I'm a passionate **Junior Web Developer** and Computer Science student at **Universitas Trunojoyo Madura** with a strong ambition to become a **Full Stack Developer**. I love building web applications and I'm constantly learning new technologies to expand my skill set. My goal is to master both frontend and backend development to create complete, scalable web solutions.
+I'm a passionate **Junior Web Developer** and Informatics Engeneering student at **Universitas Trunojoyo Madura** with a strong ambition to become a **Full Stack Developer**. I love building web applications and I'm constantly learning new technologies to expand my skill set. My goal is to master both frontend and backend development to create complete, scalable web solutions.
 
 - 🚀 I'm currently working on **improving my full-stack skills** through hands-on projects and learning new frameworks
 - 💻 I'm developing expertise in **Laravel, PHP, and JavaScript** while exploring modern frontend technologies
