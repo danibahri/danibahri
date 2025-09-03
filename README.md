@@ -25,7 +25,6 @@ I'm a passionate **Junior Web Developer** and Computer Science student at **Univ
 - 📚 I'm continuously studying **best practices**, **clean code principles**, and **modern web architectures**
 - 💬 Ask me about **Laravel**, **PHP**, **JavaScript**, or my **learning journey** in web development!
 - 📫 How to reach me:
-<p>
   <a href="https://www.linkedin.com/in/ahmad-ramadani-bahri-44468a373/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -35,7 +34,6 @@ I'm a passionate **Junior Web Developer** and Computer Science student at **Univ
   <a href="https://portfolio-eta-bay-90.vercel.app/">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
 
 ---
 
@@ -209,8 +207,6 @@ Interactive web application for sentiment analysis
 </div>
 
 ---
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
 
 <div align="center">
 
