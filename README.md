@@ -15,7 +15,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-I'm a passionate **Junior Web Developer** and Informatics Engineering student at **Universitas Trunojoyo Madura** with a strong ambition to become a **Full Stack Developer**. I love building web applications and I'm constantly learning new technologies to expand my skill set. My goal is to master both frontend and backend development to create complete, scalable web solutions.
+I'm a passionate **Junior Web Developer** and Computer Science student at **Universitas Trunojoyo Madura** with a strong ambition to become a **Full Stack Developer**. I love building web applications and I'm constantly learning new technologies to expand my skill set. My goal is to master both frontend and backend development to create complete, scalable web solutions.
 
 - 🚀 I'm currently working on **improving my full-stack skills** through hands-on projects and learning new frameworks
 - 💻 I'm developing expertise in **Laravel, PHP, and JavaScript** while exploring modern frontend technologies
@@ -69,7 +69,7 @@ I'm a passionate **Junior Web Developer** and Informatics Engineering student at
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-02569B?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
@@ -136,22 +136,20 @@ Professional recruitment platform for government commission
 </td>
 <td width="50%">
 
-### [LEPEH - Digital Laundry Management](https://github.com/danibahri/E-Laundry)
+### [Medical Record Management System](https://github.com/danibahri/E-Laundry)
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-02569B?style=flat-square&logo=tailwind-css&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/> -->
 
-Complete SaaS solution for laundry business management
+Comprehensive medical record management system with multi-role access, real-time queue management, and advanced analytics for healthcare providers.
 
-- 👥 Multi-tenant architecture (User, Worker, Admin)
-- 📱 Progressive Web App (PWA) features
-- 📋 Real-time order tracking system
-- 💰 Comprehensive revenue analytics
-- 🔔 Automated notification system
+- 👥 Multi-role access control (Admin, Doctor, Officer)
+- 📱 Dynamic dashboard with real-time analytics
+- 📋 Real-time queue management system
+- 🔔 Dynamic form builder for medical records
 
-**Tech Stack:** Laravel, MySQL, Bootstrap, JavaScript
+**Tech Stack:** Laravel, MySQL, Tailwind, JavaScript
 
 </td>
 </tr>
