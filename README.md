@@ -24,8 +24,18 @@ I'm a passionate **Junior Web Developer** and Computer Science student at **Univ
 - 🤝 I'm looking to collaborate on **web development projects** where I can learn and contribute to meaningful solutions
 - 📚 I'm continuously studying **best practices**, **clean code principles**, and **modern web architectures**
 - 💬 Ask me about **Laravel**, **PHP**, **JavaScript**, or my **learning journey** in web development!
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ramadani-bahri-44468a373/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danibahri45@gmail.com)
-
+- 📫 How to reach me:
+<p>
+  <a href="https://www.linkedin.com/in/ahmad-ramadani-bahri-44468a373/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:danibahri45@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio-eta-bay-90.vercel.app/">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Statistics
