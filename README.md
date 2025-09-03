@@ -136,7 +136,7 @@ Professional recruitment platform for government commission
 </td>
 <td width="50%">
 
-### [Medical Record Management System](https://github.com/danibahri/E-Laundry)
+### [Medical Record Management System](https://github.com/danibahri/rekam-medis)
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
