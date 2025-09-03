@@ -36,6 +36,7 @@ I'm a passionate **Junior Web Developer** and Computer Science student at **Univ
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Statistics
