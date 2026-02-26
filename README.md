@@ -3,7 +3,7 @@
   
   # Hi there, I'm Ahmad Ramadani Bahri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Web+Developer;Aspiring+Full+Stack+Developer;Laravel+%26+PHP+Enthusiast;Learning+Modern+Web+Technologies;Growing+Every+Day" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Web+Developer;Aspiring+Full+Stack+Developer;Laravel+%26+PHP+Enthusiast;Learning+Modern+Web+Technologies;Growing+Every+Day" alt="Typing SVG">
   
   <br>
   
@@ -15,7 +15,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-I'm a passionate **Junior Web Developer** and Computer Science student at **Universitas Trunojoyo Madura** with a strong ambition to become a **Full Stack Developer**. I love building web applications and I'm constantly learning new technologies to expand my skill set. My goal is to master both frontend and backend development to create complete, scalable web solutions.
+I'm a passionate **Web Developer** and Computer Science student at **Universitas Trunojoyo Madura** with a strong ambition to become a **Full Stack Developer**. I love building web applications and I'm constantly learning new technologies to expand my skill set. My goal is to master both frontend and backend development to create complete, scalable web solutions.
 
 - 🚀 I'm currently working on **improving my full-stack skills** through hands-on projects and learning new frameworks
 - 💻 I'm developing expertise in **Laravel, PHP, and JavaScript** while exploring modern frontend technologies
