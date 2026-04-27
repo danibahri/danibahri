@@ -31,7 +31,7 @@ I'm a passionate **Web Developer** and Computer Science student at **Universitas
   <a href="mailto:danibahri45@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://my-porto-eta-five.vercel.app/">
+  <a href="https://danibahri-portofolio.vercel.app/">
   <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 
