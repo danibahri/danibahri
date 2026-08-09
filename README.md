@@ -1,118 +1,105 @@
 <div align="center">
 
-  <img width="100%" src="https://github.com/danibahri/danibahri/blob/main/Banner.png?raw=true" alt="Ahmad Ramadani Bahri">
+  <img width="100%" src="https://github.com/danibahri/danibahri/blob/main/Banner.png?raw=true" alt="Ahmad Ramadani Bahri Banner">
 
   <br><br>
 
-  # Ahmad Ramadani Bahri
-  ### Full Stack Web Developer
+  <h1>Hi 👋, I'm Ahmad Ramadani Bahri</h1>
+  <h3>Full Stack Web Developer</h3>
 
-  Sumenep, Madura, Jawa Timur, Indonesia &bull; `danibahri45@gmail.com`
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+scalable+web+applications;Laravel+%7C+React.js+%7C+Next.js+%7C+Node.js;Open+for+Full-time+%26+Freelance+opportunities" alt="Typing SVG" />
+  </a>
 
-  [Curriculum Vitae](https://drive.google.com/file/d/1o8ExGOLl1YAfmegiInifI4Pk_CVaPRDK/view?usp=sharing) &bull; [LinkedIn](https://www.linkedin.com/in/ahmad-ramadani-bahri-44468a373) &bull; [GitHub](https://github.com/danibahri) &bull; [Email](mailto:danibahri45@gmail.com)
+  <br><br>
+
+  [![Status](https://img.shields.io/badge/Status-Available_for_Work-22c55e?style=flat-square&logo=github)](https://github.com/danibahri)
+  [![Degree](https://img.shields.io/badge/Degree-S.Kom_(UTM)_--_IPK_3.52-3b82f6?style=flat-square&logo=degree)](https://github.com/danibahri)
+  [![Location](https://img.shields.io/badge/Location-Sumenep%2C_Madura%2C_ID-ef4444?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/danibahri)
+
+  <br><br>
+
+  <a href="https://drive.google.com/file/d/1o8ExGOLl1YAfmegiInifI4Pk_CVaPRDK/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download_CV-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-ramadani-bahri-44468a373" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:danibahri45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 </div>
 
 ---
 
-## Executive Summary
+### 🚀 About Me
 
-Results-driven **Full Stack Web Developer** and Computer Science graduate from **Universitas Trunojoyo Madura** (GPA: 3.52/4.00) with 2+ years of software development experience. Specializing in building scalable web applications, RESTful APIs, and responsive enterprise solutions using **Laravel (PHP)**, **React.js / Next.js**, **Node.js**, and **Tailwind CSS**. Experienced across the entire software development lifecycle—from database schema architecture to cloud deployment and performance optimization. Currently available for full-time engineering roles, contract work, and freelance projects.
-
----
-
-## Technical Competencies
-
-- **Languages:** PHP, JavaScript (ES6+), Python, HTML5, CSS3
-- **Frameworks & Libraries:** Laravel, React.js, Next.js, Node.js, Express.js, Livewire, Filament, Streamlit, Flask
-- **Styling & UI:** Tailwind CSS, Responsive Web Design, UI/UX Implementation
-- **Databases & Storage:** MySQL, PostgreSQL, Supabase, Eloquent ORM
-- **Tools & Ecosystem:** Git, GitHub, RESTful APIs, Composer, NPM, Postman, Linux CLI
-- **Core Focus & Learning:** TypeScript, Docker, AWS Cloud Services, Advanced Next.js
+- 💻 **Full Stack Developer** specializing in **Laravel (PHP)**, **React.js / Next.js**, **Node.js**, and **Tailwind CSS**.
+- 🎓 Graduated in **Computer Science (S.Kom)** from **Universitas Trunojoyo Madura** with a **GPA of 3.52**.
+- 💼 Experienced in building e-commerce platforms, internal ERP/FMS systems, government portals, and SaaS apps.
+- ⚡ **Current Status:** 🟢 Available for full-time job offers, contract roles, and freelance projects.
+- 📫 **Reach Me:** `danibahri45@gmail.com` | [LinkedIn](https://www.linkedin.com/in/ahmad-ramadani-bahri-44468a373) | [Resume](https://drive.google.com/file/d/1o8ExGOLl1YAfmegiInifI4Pk_CVaPRDK/view?usp=sharing)
 
 ---
 
-## Professional Experience
-
-### **Freelance Web Developer** | *Self-Employed*
-*March 2023 – Present | Remote*
-- Architected and deployed custom web applications for 18+ client projects across various industries using Laravel, React.js, and Node.js.
-- Partnered directly with stakeholders to gather technical requirements, design database schemas, and deliver secure, production-ready software solutions on schedule.
-
-### **IT App Developer (Internship)** | *DBKlik*
-*September 2025 – December 2025 | Remote (WFH)*
-- Contributed to full-stack feature development for DBKlik's primary e-commerce platform and administrative control systems.
-- Engineered membership workflows, promotional event modules, and interactive chat features while optimizing page render speeds.
-- Resolved critical transactional bugs and shopping cart synchronization issues, improving checkout reliability.
-
-### **Full Stack Developer (Internship)** | *PT HM Sampoerna – Vendor ISS*
-*September 2025 – December 2025 | On-Site*
-- Engineered an internal Facility Management System (FMS) using Laravel and Tailwind CSS to streamline vendor maintenance operations.
-- Built an automated QR code asset tracking system and integrated real-time analytics dashboards for equipment monitoring.
-
-### **IT Software Engineer (Practice)** | *Dinas Komunikasi dan Informatika Sumenep*
-*January 2024 – February 2024 | Sumenep, Indonesia*
-- Developed the official recruitment portal for Komisi Informasi Kabupaten Sumenep using Laravel, PHP, and MySQL.
-- Implemented multi-role access control, dynamic applicant document workflows, and automated notification systems.
-
----
-
-## Featured Projects
-
-### **DB-KLIK E-Commerce & Admin Platform**
-**Technologies:** Laravel, MySQL, Tailwind CSS, JavaScript  
-- Developed membership architecture, event promotion portals, and user administrative management systems.
-- Optimized database query execution and main product pages to enhance user experience.  
-- **Live Application:** [dbklik.my.id](https://dbklik.my.id/)
-
-### **PT ISS Facility Management & Monitoring System**
-**Technologies:** Laravel, MySQL, Tailwind CSS, JavaScript  
-- Built a real-time equipment maintenance tracking portal featuring QR code scanning workflows.
-- Designed analytical dashboards for tracking asset health and vendor operational metrics.  
-- **Live Application:** [fms-iss.my.id](https://fms-iss.my.id/)
-
-### **Government Recruitment System (Komisi Informasi)**
-**Technologies:** Laravel, Filament Admin, MySQL, Tailwind CSS  
-- Built a secure public recruitment platform adhering to government compliance standards.
-- Integrated Filament Admin for dynamic application management, candidate evaluation, and document verification.  
-- **Live Application:** [seleksi-ki.sumenepkab.go.id](https://seleksi-ki.sumenepkab.go.id/)
-
-### **Medical Record Management System**
-**Technologies:** Laravel, MySQL, Tailwind CSS, JavaScript  
-- Developed a multi-role healthcare administration portal supporting Admin, Doctor, and Officer workflows.
-- Implemented real-time queue management, dynamic patient record creation, and clinic operational metrics.  
-- **Live Application:** [medrec.sumenepkab.go.id](https://medrec.sumenepkab.go.id/)
-
-### **Al-Muhajirin Mosque Management System**
-**Technologies:** React, Next.js, Tailwind CSS, Supabase  
-- Built a modern community web portal providing automated prayer schedules, donation tracking, and event management.
-- Utilized Supabase for real-time data sync and authentication.  
-- **Live Application:** [al-muhajirin.vercel.app](https://al-muhajirin.vercel.app/)
-
-### **Tourism Sentiment Analysis Platform**
-**Technologies:** Python, Streamlit, Scikit-learn, Machine Learning  
-- Built an NLP sentiment analysis engine to process and categorize tourism feedback in real time.
-- Integrated interactive visualizations and aspect-based sentiment classification charts.  
-- **Live Application:** [tourism-sentiment-analysis.streamlit.app](https://tourism-sentiment-analysis.streamlit.app/)
-
----
-
-## Certifications & Achievements
-
-- **IT App Developer Certificate** – DBKlik | [View Certificate](https://drive.google.com/file/d/1WbnZycCZMcehl0Dn7kXTY_R4MbPj26Ti/view?usp=sharing)
-- **Full Stack Developer Internship Certificate** – PT ISS | [View Certificate](https://drive.google.com/file/d/1akynlRvX1HKSz_ygQsfh8fAczX8LZBIY/view?usp=sharing)
-- **Google I/O Extended 2024 Participant** | [View Certificate](https://drive.google.com/file/d/1pobF9OeM9v4Sb5FxPCyD8vyeRT1HK2CV/view?usp=sharing)
-- **3rd Place Winner** – Vocational Student Competition (LKS) | [View Certificate](https://drive.google.com/file/d/1UDj8uSF7xeWkTC0__1ywZlHmRflg4LqC/view?usp=sharing)
-- **LKS Provincial Level Student Competition Participant** | [View Certificate](https://drive.google.com/file/d/1DyrtQSuBBlKqKvcTgArbRXaF33pLn9cV/view?usp=sharing)
-- **Industrial Work Practice Certificate (PKL)** | [View Certificate](https://drive.google.com/file/d/1qIOX2Nvn8CtWR1EW0uJesrqqkRCaKz28/view?usp=sharing)
-
----
-
-## GitHub Overview
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=danibahri&show_icons=false&theme=minimal&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibahri&layout=compact&langs_count=6&theme=minimal" alt="Top Languages" />
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `PHP` `JavaScript (ES6+)` `Python` `HTML5` `CSS3` |
+| **Frameworks** | `Laravel` `React.js` `Next.js` `Node.js` `Express.js` `Livewire` `Filament` `Flask` `Streamlit` |
+| **Styling & UI** | `Tailwind CSS` `Bootstrap` `Responsive UI/UX` |
+| **Databases** | `MySQL` `PostgreSQL` `Supabase` `Eloquent ORM` |
+| **Tools & Cloud** | `Git` `GitHub` `REST APIs` `Composer` `NPM` `Postman` `Docker` `AWS` |
+
+</div>
+
+---
+
+### 💻 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Live Demo |
+| :--- | :--- | :---: |
+| 🛒 **DB-KLIK E-Commerce & Admin** | `Laravel` `MySQL` `Tailwind` `JS` | [Visit Site](https://dbklik.my.id/) |
+| 🏢 **PT ISS Web Monitoring & Maintenance** | `Laravel` `MySQL` `Tailwind` `QR Scan` | [Visit Site](https://fms-iss.my.id/) |
+| 🏛️ **Government Recruitment System** | `Laravel` `Filament` `MySQL` `Tailwind` | [Visit Site](https://seleksi-ki.sumenepkab.go.id/) |
+| 🏥 **Medical Record Management System** | `Laravel` `MySQL` `Tailwind` `JS` | [Visit Site](https://medrec.sumenepkab.go.id/) |
+| 🕌 **Al-Muhajirin Mosque App** | `React` `Next.js` `Tailwind` `Supabase` | [Visit Site](https://al-muhajirin.vercel.app/) |
+| 🤖 **Tourism Sentiment Analysis Engine** | `Python` `Streamlit` `Scikit-learn` `ML` | [Visit Site](https://tourism-sentiment-analysis.streamlit.app/) |
+
+</div>
+
+---
+
+### 📜 Certifications & Achievements
+
+- 📜 [IT App Developer Internship Certificate - DBKlik](https://drive.google.com/file/d/1WbnZycCZMcehl0Dn7kXTY_R4MbPj26Ti/view?usp=sharing)
+- 📜 [Full Stack Developer Internship Certificate - PT ISS](https://drive.google.com/file/d/1akynlRvX1HKSz_ygQsfh8fAczX8LZBIY/view?usp=sharing)
+- 📜 [Google I/O Extended 2024 Participant](https://drive.google.com/file/d/1pobF9OeM9v4Sb5FxPCyD8vyeRT1HK2CV/view?usp=sharing)
+- 🏆 [3rd Place Winner - Vocational Student Competition (LKS)](https://drive.google.com/file/d/1UDj8uSF7xeWkTC0__1ywZlHmRflg4LqC/view?usp=sharing)
+- 📜 [LKS Provincial Level Student Competition Participant](https://drive.google.com/file/d/1DyrtQSuBBlKqKvcTgArbRXaF33pLn9cV/view?usp=sharing)
+- 📜 [Industrial Work Practice Certificate (PKL)](https://drive.google.com/file/d/1qIOX2Nvn8CtWR1EW0uJesrqqkRCaKz28/view?usp=sharing)
+
+---
+
+### 📈 GitHub Statistics
+
+<div align="center">
+
+  <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danibahri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danibahri&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danibahri&theme=tokyonight" alt="GitHub Streak" />
+  </p>
+
 </div>
 
 ---
@@ -120,5 +107,9 @@ Results-driven **Full Stack Web Developer** and Computer Science graduate from *
 <div align="center">
 
 > *"Yang penting Ngoding, yang penting berkarya, yang penting bermanfaat"* — **Ahmad Ramadani Bahri**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
