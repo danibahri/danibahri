@@ -2,22 +2,22 @@
 
   <img width="100%" src="https://github.com/danibahri/danibahri/blob/main/Banner.png?raw=true" alt="Ahmad Ramadani Bahri Banner">
 
-  <br><br>
+<br><br>
 
   <h1>Hi 👋, I'm Ahmad Ramadani Bahri</h1>
-  <h3>Full Stack Web Developer</h3>
+  <h3>Web Developer</h3>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+scalable+web+applications;Laravel+%7C+React.js+%7C+Next.js+%7C+Node.js;Open+for+Full-time+%26+Freelance+opportunities" alt="Typing SVG" />
   </a>
 
-  <br><br>
+<br><br>
 
-  [![Status](https://img.shields.io/badge/Status-Available_for_Work-22c55e?style=flat-square&logo=github)](https://github.com/danibahri)
-  [![Degree](https://img.shields.io/badge/Degree-S.Kom_(UTM)_--_IPK_3.52-3b82f6?style=flat-square&logo=degree)](https://github.com/danibahri)
-  [![Location](https://img.shields.io/badge/Location-Sumenep%2C_Madura%2C_ID-ef4444?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/danibahri)
+[![Status](https://img.shields.io/badge/Status-Available_for_Work-22c55e?style=flat-square&logo=github)](https://github.com/danibahri)
+[![Degree](<https://img.shields.io/badge/Degree-S.Kom_(UTM)_--_IPK_3.52-3b82f6?style=flat-square&logo=degree>)](https://github.com/danibahri)
+[![Location](https://img.shields.io/badge/Location-Sumenep%2C_Madura%2C_ID-ef4444?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/danibahri)
 
-  <br><br>
+<br><br>
 
   <a href="https://drive.google.com/file/d/1o8ExGOLl1YAfmegiInifI4Pk_CVaPRDK/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download_CV-2563EB?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV"/>
@@ -35,7 +35,7 @@
 
 ### 🚀 About Me
 
-- 💻 **Full Stack Developer** specializing in **Laravel (PHP)**, **React.js / Next.js**, **Node.js**, and **Tailwind CSS**.
+- 💻 **Web Developer** specializing in **Laravel (PHP)**, **React.js / Next.js**, **Node.js**, and **Tailwind CSS**.
 - 🎓 Graduated in **Computer Science (S.Kom)** from **Universitas Trunojoyo Madura** with a **GPA of 3.52**.
 - 💼 Experienced in building e-commerce platforms, internal ERP/FMS systems, government portals, and SaaS apps.
 - ⚡ **Current Status:** 🟢 Available for full-time job offers, contract roles, and freelance projects.
@@ -47,30 +47,13 @@
 
 <div align="center">
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `PHP` `JavaScript (ES6+)` `Python` `HTML5` `CSS3` |
-| **Frameworks** | `Laravel` `React.js` `Next.js` `Node.js` `Express.js` `Livewire` `Filament` `Flask` `Streamlit` |
-| **Styling & UI** | `Tailwind CSS` `Bootstrap` `Responsive UI/UX` |
-| **Databases** | `MySQL` `PostgreSQL` `Supabase` `Eloquent ORM` |
-| **Tools & Cloud** | `Git` `GitHub` `REST APIs` `Composer` `NPM` `Postman` `Docker` `AWS` |
-
-</div>
-
----
-
-### 💻 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Live Demo |
-| :--- | :--- | :---: |
-| 🛒 **DB-KLIK E-Commerce & Admin** | `Laravel` `MySQL` `Tailwind` `JS` | [Visit Site](https://dbklik.my.id/) |
-| 🏢 **PT ISS Web Monitoring & Maintenance** | `Laravel` `MySQL` `Tailwind` `QR Scan` | [Visit Site](https://fms-iss.my.id/) |
-| 🏛️ **Government Recruitment System** | `Laravel` `Filament` `MySQL` `Tailwind` | [Visit Site](https://seleksi-ki.sumenepkab.go.id/) |
-| 🏥 **Medical Record Management System** | `Laravel` `MySQL` `Tailwind` `JS` | [Visit Site](https://medrec.sumenepkab.go.id/) |
-| 🕌 **Al-Muhajirin Mosque App** | `React` `Next.js` `Tailwind` `Supabase` | [Visit Site](https://al-muhajirin.vercel.app/) |
-| 🤖 **Tourism Sentiment Analysis Engine** | `Python` `Streamlit` `Scikit-learn` `ML` | [Visit Site](https://tourism-sentiment-analysis.streamlit.app/) |
+| Category          | Technologies & Tools                                                                            |
+| :---------------- | :---------------------------------------------------------------------------------------------- |
+| **Languages**     | `PHP` `JavaScript (ES6+)` `Python` `HTML5` `CSS3`                                               |
+| **Frameworks**    | `Laravel` `React.js` `Next.js` `Node.js` `Express.js` `Livewire` `Filament` `Flask` `Streamlit` |
+| **Styling & UI**  | `Tailwind CSS` `Bootstrap` `Responsive UI/UX`                                                   |
+| **Databases**     | `MySQL` `PostgreSQL` `Supabase` `Eloquent ORM`                                                  |
+| **Tools & Cloud** | `Git` `GitHub` `REST APIs` `Composer` `NPM` `Postman` `Docker` `AWS`                            |
 
 </div>
 
@@ -106,7 +89,8 @@
 
 <div align="center">
 
-> *"Yang penting Ngoding, yang penting berkarya, yang penting bermanfaat"* — **Ahmad Ramadani Bahri**
+> _"Another day, another line of code"_
+> **Ahmad Ramadani Bahri**
 
 <br>
 
